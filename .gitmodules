@@ -1,4 +1,4 @@
 [submodule "lib/vscode"]
 	path = lib/vscode
-	url = git@github.com:atadml/ide.git
+	url = https://github.com/atadml/ide
 	branch = exp-entry-point
